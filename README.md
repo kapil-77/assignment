@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Usage
+
+### Pages
+
+- **Our Story**
+  ![image](image.png)
+
+- **Contact Form**: Users can log in using their credentials.
+  ![image](image-1.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
